@@ -7,7 +7,6 @@ NUGET
       SgmlReader (>= 1.8.11) - framework: >= net40
     FAKE (4.8.0)
     FSharp.Compiler.Tools (4.0.0.1)
-    ilmerge (2.14.1208)
     Newtonsoft.Json (7.0.1)
     PreMailer.Net (1.4.2) - framework: >= net40
       CsQuery (>= 1.3.4)

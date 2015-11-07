@@ -3,6 +3,5 @@ source https://www.nuget.org/api/v2/
 nuget evernote-cloud-sdk-windows
 nuget Rx-Main
 nuget FAKE
-nuget ilmerge
 nuget Sharp-Config
 nuget FSharp.Compiler.Tools
